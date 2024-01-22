@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="Author: Samsul Ma'arif&lt;samsulma828@gmail.com&gt;&#10;Copyright (c) &amp;#36;originalComment.match(&quot;Copyright \(c\) (\d+)&quot;, 1, &quot;-&quot;, &quot;&amp;#36;today.year&quot;)&amp;#36;today.year. " />
+    <option name="myName" value="sam" />
+  </copyright>
+</component>

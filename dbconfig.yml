@@ -1,0 +1,13 @@
+
+development:
+  dialect: postgres
+  datasource: dbname=go_api_pos_db sslmode=disable user=postgres password=localhost
+  dir: migration
+staging:
+  dialect: postgres
+  datasource: dbname=idas_staging sslmode=disable
+  dir: migration
+production:
+  dialect: postgres
+  datasource: dbname=idas_production sslmode=disable
+  dir: migration
